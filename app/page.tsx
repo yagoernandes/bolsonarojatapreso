@@ -12,7 +12,7 @@ export default function Home() {
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://g1.globo.com/politica/ao-vivo/bolsonaro-e-preso.ghtml"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -33,7 +33,7 @@ export default function Home() {
         <div className="static bottom-0 left-0 flex  w-full items-end justify-center from-white via-white dark:from-black dark:via-black lg:size-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 lg:pointer-events-auto p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://g1.globo.com/politica/ao-vivo/bolsonaro-e-preso.ghtml"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -43,11 +43,11 @@ export default function Home() {
         <div className="static bottom-0 left-0 flex text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-extrabold w-full items-end justify-center from-white via-white dark:from-black dark:via-black lg:size-auto lg:bg-none mt-2 lg:mt-6">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://g1.globo.com/politica/ao-vivo/bolsonaro-e-preso.ghtml"
             target="_blank"
             rel="noopener noreferrer"
           >
-            AINDA NÃO
+            SIM!
           </a>
         </div>
       </div>
